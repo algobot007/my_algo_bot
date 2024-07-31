@@ -183,8 +183,8 @@ class TradingClass:
             time.sleep(self.check_interval)
 
 
-api_key = ''
-secret_key = ''
+api_key = 'K0i6JGowF6h5VdxRDNiIZ2kKnXsKGo2lKvr2z8KQTQDmW8OqcBfHgynJCaItHWzR'
+secret_key = 'zxMhTlAWqXUVmtSZK449YfeD3KKex0sHhhUbGpsuG1dtSPRTxRLxc6mOQNKNM309'
 
 # Example usage:
 trading_bot = TradingClass(
